@@ -1,7 +1,5 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import pandas as pd
-import matplotlib.pyplot as plt
 import numpy as np
 
 def load_results(python_file="python_results.xlsx", matlab_file="Results.xlsx"):
@@ -58,4 +56,5 @@ if __name__ == "__main__":
     compare_flows(py, matlab, flow_name_py="outflow_pv_1", flow_name_matlab="PV")
 
 #Matlab Variablennamen
+
 # timestep,Pel_im,Pel_ex,Pgas_im,Pel_HeP,Pht_HeP,Pgas_Boi,Pht_Boi,E_HSto,Pcha_HSto,Pdis_HSto,HeatDemand,ElecDemand,PV
