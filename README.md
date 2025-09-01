@@ -48,6 +48,7 @@ Nutzen durch Anpassen der Parameter (Capex noch nicht genutzt) in main.py und er
 - Aus SENSE Lehre
   
 #### Dependencies:
+- gurobi (oder anderer Solver, dann anderen Solver in optimize.py auswählen)
 - pyomo
 - pandas
 - matplotlib
