@@ -4,6 +4,7 @@ Gerade Version 0 zum Vergleich der Programmstruktur mit Matlab Modell aus SENSE 
 
 Nutzen durch Anpassen der Parameter (Capex noch nicht genutzt) in main.py und erstellen anderer Modellstruktur in MES.py.
 
+### Python Dateien
 #### main.py
 - Anpassen der Paramter
 - Einlesen der Verbrauchs- und Erzeugungsprofile
@@ -33,6 +34,19 @@ Nutzen durch Anpassen der Parameter (Capex noch nicht genutzt) in main.py und er
 - Hardgecodeter Vergleich mit Matlab Modell
 - Langfristig Erstellung der klassischen Grafiken
 
+### sonst. Dateien
+#### Results.xlsx
+- Ergebnis Excel aus dem Matlab Model
+
+#### pv_daten_Berlin.csv
+- normierte PV Einspeisung von Renewables.ninja
+
+#### Heatload
+- Aus SENSE Lehre
+  
+#### ElectricityLoad
+- Aus SENSE Lehre
+  
 #### Dependencies:
 - pyomo
 - pandas
