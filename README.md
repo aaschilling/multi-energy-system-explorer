@@ -54,3 +54,11 @@ Nutzen durch Anpassen der Parameter (Capex noch nicht genutzt) in main.py und er
 - matplotlib
 - numpy
 - networkx
+
+### nächste Schritte
+- Tests:
+    - für das MES (und Visualisierung des Systems zur Überprüfung?)
+    - ...
+ - Capex mit Berücksichtigen
+ - JAZ Zeitreihe Wärmepumpen
+ - System-Loss Zeitreihe aufgrundlage von Wetterjahr?
