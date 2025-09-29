@@ -61,7 +61,6 @@ def build_mes(params, profiles):
 
     return mes
 
-
 def plot_mes(mes):
     G = nx.DiGraph()
     # das wird total gut, dass überprüft werden kann, dass das modell so aussieht wie man es möchte :D
